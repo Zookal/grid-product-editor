@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<config>
+    <modules>
+        <Zookal_GridProductEditor>
+            <version>0.0.1</version>
+        </Zookal_GridProductEditor>
+    </modules>
+    <global>
+        <models>
+            <zookalgpe>
+                <class>Zookal_GridProductEditor_Model</class>
+            </zookalgpe>
+        </models>
+
+        <helpers>
+            <zookalgpe>
+                <class>Zookal_GridProductEditor_Helper</class>
+            </zookalgpe>
+        </helpers>
+
+        <blocks>
+            <zookalgpe>
+                <class>Zookal_GridProductEditor_Block</class>
+            </zookalgpe>
+        </blocks>
+
+    </global>
+
+</config>

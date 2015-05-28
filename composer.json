@@ -1,0 +1,18 @@
+{
+    "name": "zookal/grid-product-editor",
+    "license": [
+        "OSL-3.0",
+        "AFL-3.0"
+    ],
+    "type": "magento-module",
+    "description": "Magento 1 grid product attirbute editor",
+    "authors": [
+        {
+            "name": "Cyrill Schumacher",
+            "email": "cyrill+zookal@schumacher.fm"
+        }
+    ],
+    "suggest": {
+        "magento-hackathon/magento-composer-installer": "*"
+    }
+}
