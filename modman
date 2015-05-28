@@ -1,2 +1,2 @@
-app/code/community/Zookal/GridProductEditor     /app/code/community/Zookal/GridProductEditor
-app/etc/Zookal_GridProductEditor.xml            /app/etc/modules/Zookal_GridProductEditor.xml
+src/app/code/community/Zookal/GridProductEditor     app/code/community/Zookal/GridProductEditor
+src/app/etc/modules/Zookal_GridProductEditor.xml    app/etc/modules/Zookal_GridProductEditor.xml
